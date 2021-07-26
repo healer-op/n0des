@@ -1,0 +1,104 @@
+body,
+.mainmenu .sub-menu,
+#sticky-header.active .site-header,
+.mobile-sidebar-menu .navigation {
+    background-color: #0F2027;
+}
+
+.hero-block.hero-block-one {
+    background-color: #1C253B !important;
+}
+
+.about-us-block.style-one,
+.search-wrap .search-form {
+    background-color: #15293A !important;
+}
+
+.portfolio-block.style-one {
+    background-color: #1A302A !important;
+}
+
+.latest-news-block.style-one {
+    background-color: #27282E !important;
+}
+
+.form-controller,
+.hero-block.hero-block-one .swiper-pagination .swiper-pagination-bullet,
+.hamburger-menus>span {
+    background-color: #fff;
+}
+
+.btn-links-area .btn-links {
+    background-color: #1C243A;
+}
+
+.portfolio-block .portfolio-scroll-slider.swiper-container-horizontal>.swiper-scrollbar {
+    background-color: #1B243A;
+}
+
+.portfolio-block .portfolio-scroll-slider .swiper-scrollbar-drag {
+    background-color: #8B52E4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.read-more-text,
+.site-footer .widget-title,
+.fanfact-promo-numbers .promo-number.style-three .promo-title,
+.portfolio-filter li a,
+.social-status a,
+.entry-meta .entry-meta-author .entry-author-name,
+.text-feature-block .sub-title,
+.hero-block .hero-title,
+.hero-block .hero-desc,
+.team-items-list .team-item .team-info .social-status>a,
+.btn-default,
+.fanfact-promo-numbers .promo-number .odometer-wrap,
+.navigation .mainmenu>li>a,
+.navigation .mainmenu li>a>.menu-arrow,
+.mainmenu .sub-menu li a,
+.search-wrap .search-btn {
+    color: #fff;
+}
+
+.work-process-block .single-process .title,
+.work-process-block .single-process .read-more-text,
+.service-item .title,
+.service-item .read-more-text {
+    color: #000;
+}
+
+.work-process-block .single-process .read-more-text:hover,
+.service-item .read-more-text:hover {
+    color: #4776e6;
+}
+
+.btn-links-area .btn-links {
+    color: #8e54e9;
+}
+
+.btn-primary.btn-gradient-45 {
+    font-size: 16px;
+}
+
+.form-controller,
+.btn-default {
+    border-color: #fff;
+}
+
+.btn-default:hover {
+    border-color: #8E54E9;
+}
+
+.team-block {
+    padding-bottom: 45px;
+}
+
+.mobile-sidebar-menu .navigation,
+#sticky-header.active .site-header {
+    box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.4);
+}
